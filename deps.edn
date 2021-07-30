@@ -1,0 +1,13 @@
+{:paths []
+ :deps {pad/coll {:local/root "src/coll"}
+        pad/core {:local/root "src/core"}
+        pad/data {:local/root "src/data"}
+        pad/io {:local/root "src/io"}
+        pad/math {:local/root "src/math"}
+        pad/prn {:local/root "src/prn"}
+        pad/nrepl {:local/root "src/nrepl"}
+        pad/ml {:local/root "src/ml"}
+        pad/dataset {:local/root "src/dataset"}
+        ; pad/datomic {:local/root "src/datomic"} import manually
+        ; pad/dgraph {:local/root "src/dgraph"} import manually
+        }}
