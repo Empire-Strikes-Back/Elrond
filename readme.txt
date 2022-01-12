@@ -1,1 +1,1 @@
-we are pad libraries - a collection of functions
+you have only one choice - the Ring must be destroyed
